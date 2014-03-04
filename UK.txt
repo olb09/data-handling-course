@@ -1,4 +1,4 @@
-# extra words!This data set has been obtained from The Met Office (http://www.metoffice.gov.uk/climate/uk/datasets/Rainfall/date/UK.txt).
+# This data set has been obtained from The Met Office (http://www.metoffice.gov.uk/climate/uk/datasets/Rainfall/date/UK.txt).
 # "Contains public sector information licensed under the Open Government Licence v1.0".
 # Note: Years 2011, 2012 and 2013 have been removed here.
 #
